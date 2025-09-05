@@ -2,6 +2,9 @@
 
 # 📖 Overview
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6634d71e-c6ec-42ff-9132-fab4ae63bd72" />
+
+
 The Amazon Prime Video Dashboard is a Power BI project built to analyze and visualize Amazon Prime’s content catalog. It delivers insights into movies and TV shows by showcasing trends in genres, ratings, release years, countries, and durations.
 
 
